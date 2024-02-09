@@ -18,6 +18,10 @@ body, html {
     cursor: pointer;
 }
 
+#hugging-teddy-gif {
+    max-width: 50%;
+}
+
 #birthday-message {
     margin-top: 20px;
     color: #181825; 
